@@ -37,5 +37,5 @@ Super + shift + letter (1-0=) = Move active window to workspace letter and switc
 (not full list)
 
 
-Special crdits to [JaKooLit](https://github.com/JaKooLit/Hyprland-Dots) for most of the files.
+Special credits to [JaKooLit](https://github.com/JaKooLit/Hyprland-Dots) for most of the files.  
 Heavily inspired by [saneAspect](https://www.youtube.com/@saneAspect) on YouTube
