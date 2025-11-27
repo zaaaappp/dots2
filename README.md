@@ -14,6 +14,8 @@ git clone https://github.com/zaaaappp/dots2.git
 cd dots2
 ./install.sh
 ```
+* script is untested
+
 
 # Configuration
 These dotfiles are configured for NVidia by default.
@@ -21,7 +23,7 @@ These dotfiles are configured for NVidia by default.
 If you're on an AMD gpu, Remove the NVidia lines in hyprland.conf  
 Adjust the monitor section to your [monitors](https://wiki.hypr.land/Configuring/Monitors/)  
 
-# Basic Keybinds
+# Keybinds
 Super + shift + C = Color picker  
 Super + shift + S = Screenshot  
 Super + shift + D = Wallpaper + theme picker ( drag wallpapers into ~/Pictures/wallpapers/ )  
