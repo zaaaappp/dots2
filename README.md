@@ -7,7 +7,7 @@ Read below what its about
 
 # Installation
 
-Run the following commands to install!
+Run the following commands to install the dotfiles!
 ```shell
 sudo pacman -S git
 git clone https://github.com/zaaaappp/dots2.git
