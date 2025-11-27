@@ -36,6 +36,11 @@ Super + shift + letter (1-0=) = Move active window to workspace letter and switc
 
 (not full list)
 
+# Pictures
+<img src="pictures/1.png" alt="Picture 1">
+<img src="pictures/2.png" alt="Picture 2">
+<img src="pictures/3.png" alt="Picture 3">
+<img src="pictures/4.png" alt="Picture 4">
 
 Special credits to [JaKooLit](https://github.com/JaKooLit/Hyprland-Dots) for most of the files.  
 Heavily inspired by [saneAspect](https://www.youtube.com/@saneAspect) on YouTube
