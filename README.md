@@ -19,7 +19,7 @@ cd dots2
 These dotfiles are configured for NVidia by default.
 
 If you're on an AMD gpu, Remove the NVidia lines in hyprland.conf  
-Also edit "~/.config/monitors.conf" and adjust it to your [monitors](https://wiki.hypr.land/Configuring/Monitors/)  
+Adjust the monitor section to your [monitors](https://wiki.hypr.land/Configuring/Monitors/)  
 
 # Basic Keybinds
 Super + shift + C = Color picker  
