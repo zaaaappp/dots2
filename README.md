@@ -14,7 +14,7 @@ git clone https://github.com/zaaaappp/dots2.git
 cd dots2
 ./install.sh
 ```
-* script is untested
+*script is untested
 
 
 # Configuration
