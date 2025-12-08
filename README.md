@@ -1,9 +1,5 @@
 # Dotfiles
-Welcome to my dotfiles!
-
-Read below what its about  
-▪ Nice looking while staying usable  
-▪ Not recommended for beginners  
+Welcome to my "mix" of dotfiles!
 
 # Installation
 
