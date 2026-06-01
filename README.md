@@ -1,7 +1,7 @@
 > [!WARNING]
-> This repository is severely out of date, I will update it in the future, please do not use unless you dont mind fixing alot of errors manually.
+> This repository is severely out of date, I will update it in the future, please do not use unless you dont mind fixing alot of bugs manually.
 >
-> Broken stuff:
+> Known bugs:
 > - NVidia drivers
 > - Shell prompt (oh my zsh)
 
