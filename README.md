@@ -1,5 +1,9 @@
 > [!WARNING]
 > This repository is severely out of date, I will update it in the future, please do not use unless you dont mind fixing alot of errors manually.
+>
+> Broken stuff:
+> - NVidia drivers
+> - Shell prompt (oh my zsh)
 
 # Dotfiles
 Welcome to my "mix" of dotfiles!
