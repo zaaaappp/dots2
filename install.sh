@@ -77,7 +77,7 @@ bash install.sh
 cd ..
 rm -rf sf-fonts
 sudo pacman -Sy
-sudo pacman -S --noconfirm pciutils man pavucontrol grim mpv slurp unzip jq ncdu curl noto-fonts-emoji zsh-autosuggestions sudo coreutils which wireplumber pamixer zsh-syntax-highlighting gparted zsh lxappearance sddm hyprland rofi-wayland swww kitty waybar cliphist playerctl pavucontrol wl-clipboard xdg-desktop-portal-hyprland xdg-utils neovim noto-fonts base-devel nerd-fonts lsd fastfetch swaync thunar cava btop bc hyprpicker
+sudo pacman -S --noconfirm matugen pciutils man pavucontrol grim mpv slurp unzip jq ncdu curl noto-fonts-emoji zsh-autosuggestions sudo coreutils which wireplumber pamixer zsh-syntax-highlighting gparted zsh lxappearance sddm hyprland rofi-wayland swww kitty waybar cliphist playerctl pavucontrol wl-clipboard xdg-desktop-portal-hyprland xdg-utils neovim noto-fonts base-devel nerd-fonts lsd fastfetch swaync thunar cava btop bc hyprpicker
 toilet -f mono12 DOTS
 systemctl enable sddm.service
 echo -e ""
@@ -101,6 +101,8 @@ wpctl settings --save bluetooth.autoswitch-to-headset-profile false
 echo -e "${BLUE}==>${WHITE} turning off headphone auto switch ${RESET}"
 echo -e "${BLUE}==>${WHITE} Waiting 5 seconds before continuing ${RESET}"
 countdown 5
+echo ""
+sudo chown -R $USER:$USER ~/.config
 echo ""
 toilet -f mono12 FINISHED
 echo -e ""
