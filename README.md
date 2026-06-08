@@ -13,8 +13,9 @@ Welcome to my "mix" of dotfiles!
 Run the following commands to install the dotfiles!
 ```shell
 sudo pacman -S git
-git clone https://github.com/zaaaappp/dots2.git
-cd dots2
+git clone https://github.com/zappedx/hyprdots.git
+cd hyprdots
+chmod+x install.sh
 ./install.sh
 ```
 
