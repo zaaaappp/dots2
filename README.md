@@ -15,7 +15,7 @@ Run the following commands to install the dotfiles!
 sudo pacman -S git
 git clone https://github.com/zappedx/hyprdots.git
 cd hyprdots
-chmod+x install.sh
+chmod +x install.sh
 ./install.sh
 ```
 
